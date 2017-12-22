@@ -10,3 +10,6 @@ Pour vérifier l'activité des traders, il y a le "middle office". Les collabora
 
 ### Back office : la partie administrative de la transaction
 Une fois que le trader a généré une transaction et que celle-ci a été validée par le middle office, le back office s'occupe alors de la partie administrative : il enregistre l'opération dans le bilan comptable, il informe la contrepartie de la transaction et il distribue les valeurs échangées. Le paiement des opérations est effectué par le back office. Le back office doit également vérifier la réalisation comptable de la transaction et s'assurer de son bon dénouement.
+
+### Post Trade : contrôler et réaliser les transactions
+L'expertise **Post Trade** permettra de vous familiariser avec les activités et les traitements exercés par les middle et les back offices. Il s'agit d'une cinématique de réalisation de....
